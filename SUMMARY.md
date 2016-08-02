@@ -1,6 +1,6 @@
 # Summary
 * [About](README.md)
-* [_1 |_ Introduction](01_Introduction/1_introduction.md)
+* [__1 |__ Introduction](01_Introduction/1_introduction.md)
    * [1.1|Resources](01_Introduction/1-1_resources.md)
 * [2|DPS Revit Template](02_DPS Revit Template/2_overview.md)
    * [2.1|Project Startup](02_DPS Revit Template/2-1_project_start.md)
