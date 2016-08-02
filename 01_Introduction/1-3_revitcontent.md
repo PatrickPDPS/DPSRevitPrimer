@@ -10,11 +10,4 @@ This content library is organized in a familiar fashion. **Master Format** is th
 * **Detail Components** are 2D components used for detailing (organized using Master Format as well).
 * **Division Content** contains model content organized by respective Master Format division.
 
->If needed Revit support will also model geometry based off of existing conditions or CAD files. Please ebsure that your CAD files are ready to be handed off by verifying the precision is accurate and the floor to floor height is indicated. (*there have been instances where Revit support has received "design drawings" that were not ready to be modeled*)
-
-The project start sheet is located in: R:\REVIT\Libraries\DPS Content\Revit-Project Start Checklist.pdf 
-
-*Examples of the project start sheet are found below.*
-
-<img src="images/2-1/2-1_projectstart1.png" alt="Project Start 1" width = "350"/>
-<img src="images/2-1/2-1_projectstart2.png" alt="Project Start 2" width = "350"/>
+>Using windows search in the directory is the simplest method to find content. If you cannot find your content Revit Support will be more than happy to generate it for you.
