@@ -3,7 +3,7 @@
 To ensure that **all** projects are utilize similar content, DPS has a content directory located on the R drive for all offices.
 
 This content library is organized in a familiar fashion. **Master Format** is the logic utilized in this process.
-<img src="images/2-1/2-1_projectstart1.png" alt="Library" width = "350"/>
+<img src="images/1-3/1_library.png" alt="Library" width = "350"/>
 
 * **Annotation** a library of typical NCS compliant annotation used in Revit.
 * **Design** any rendering content such as entourage or signage.
