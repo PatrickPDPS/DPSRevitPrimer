@@ -2,9 +2,9 @@
 
 For support when it comes to getting work done in Revit, DPS created a group of individuals to assist you with any needs.
 
-![software]](images/1-1/00-software.png)
+###This group consists of the following individuals.
 
-#### Revit Support Group
+#### Yanelly Marquez - Government Group
 
 The Revit Support group was established to provide immediate support to users when it comes to our digital process. They are immediately reachable by a single email group RevitSupport@dpsdesign.org
 
