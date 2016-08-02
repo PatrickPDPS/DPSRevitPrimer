@@ -5,10 +5,10 @@ To ensure that **all** projects are utilize similar content, DPS has a content d
 This content library is organized in a familiar fashion. **Master Format** is the logic utilized in this process.
 <img src="images/1-3/1-library.png" alt="Library" width = "500"/>
 
-* **Annotation** a library of typical NCS compliant annotation used in Revit.
-* **Design** any rendering content such as entourage or signage.
-* **Detail Components** 2D components used for detailing (organized using Master Format as well).
-* **Division Content** model content organized by respective Master Format division.
+* **Annotation** is a library of typical NCS compliant annotation used in Revit.
+* **Design** contains any rendering content such as entourage or signage.
+* **Detail Components** are 2D components used for detailing (organized using Master Format as well).
+* **Division Content** contains model content organized by respective Master Format division.
 
 >If needed Revit support will also model geometry based off of existing conditions or CAD files. Please ebsure that your CAD files are ready to be handed off by verifying the precision is accurate and the floor to floor height is indicated. (*there have been instances where Revit support has received "design drawings" that were not ready to be modeled*)
 
