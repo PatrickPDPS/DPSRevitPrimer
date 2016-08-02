@@ -5,4 +5,4 @@ At DPS Design we fully support using technology to aid in our design process as 
 This document aims to present the best methods for working within Revit.
 
 
-![DPSdesign](/images/1/1-dpslogo.png)
+![DPSdesign](/images/1/1-DPSLogo.png)
