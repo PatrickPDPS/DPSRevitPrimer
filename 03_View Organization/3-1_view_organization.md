@@ -23,7 +23,7 @@ The two project parameters that are utilized are **Top Tier** and **View Series*
 
 ###### Top Tier primarily reflects phases of a building or design process. *The reason this parameter was not named phase is to avoid confusion because it can be utilized to include items that are not project phases. (Coordination, LEED, Project Management, etc.)*
 
-* Applicable **Top Tier** types include (but are not limited to): </br>
+* Applicable **Top Tier** types include (but are not limited to): 
   * !Coordination
   * !Working
   * Documentation
@@ -32,7 +32,7 @@ The two project parameters that are utilized are **Top Tier** and **View Series*
 
 ###### View Series relates back to National CAD Standards. The numeric portion reflects what sheet the view should appear on.
 
-* Applicable **View Series** types include  (but are not limited to):</br>
+* Applicable **View Series** types include  (but are not limited to):
   * AE010 Partition Types 
   * AE100 Floor Plans 
   * AE120 Reflected Ceiling Plans 
