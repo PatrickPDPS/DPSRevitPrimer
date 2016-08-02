@@ -2,16 +2,16 @@
 
 For support when it comes to getting work done in Revit, DPS created a group of individuals to assist you with any needs.
 
-###This group consists of the following individuals.
+###This group consists of the following individuals. (Alphabetical order with respective focus areas)
 
-#### **Yanelly Marquez** - *Government Group*
+#### Yanelly Marquez - *Government Group*
 
-#### Jesus Martinez - Commercial/Liturgical Group
+#### Jesus Martinez - *Commercial/Liturgical Group*
 
-#### John Pierson - Whole Office Support
+#### John Pierson - *Whole Office Support*
 
-#### Patrick Podeyn - Whole Office Support
+#### Patrick Podeyn - *Whole Office Support*
 
-#### Patricia Trejo-Rodriguez - Interiors Group
+#### Patricia Trejo-Rodriguez - *Interiors Group*
 
-#### Luc Wing - Healthcare/Education
+#### Luc Wing - *Healthcare/Education*
