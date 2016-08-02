@@ -8,7 +8,7 @@ When it comes to using the software in an efficient manner, DPS has a great supp
 
 The Revit Support group was established to provide immediate support to users when it comes to our digital process. They are immediately reachable by a single email group RevitSupport@dpsdesign.org
 
-The group consists of four total members strategically placed throughout the office.
+The group consists of 6 total members strategically placed throughout the office.
 
 ### Design Technology Leaders
 
