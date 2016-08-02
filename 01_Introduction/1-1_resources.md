@@ -10,8 +10,8 @@ The Revit Support group was established to provide immediate support to users wh
 
 The group consists of four total members strategically placed throughout the office.
 
-### BIM Committee
+### Design Technology LEaders
 
-If you require assistance that goes beyond initial troubleshooting and workflows you may need to contact the BIM Committee. This group is in charge of guiding how we achieve our BIM process as a whole.
+If you require assistance that goes beyond initial troubleshooting and workflows you may need to contact the Design Technology Leaders. This group is in charge of guiding how we utilize technology in the firm as a whole.
 
 This group consists of a representative from every practice area and meets on a monthly basis to discuss best practices, training topics and new items.
