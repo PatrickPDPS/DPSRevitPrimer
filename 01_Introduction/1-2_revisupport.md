@@ -13,8 +13,11 @@ For support when it comes to getting work done in Revit, DPS created a group of 
 #### John Pierson - 
 >Coordinator / Revit Certified Professional - *Whole Office Support*
 
-#### Patrick Podeyn - *Whole Office Support*
+#### Patrick Podeyn
+>BIM Technician / Revit Certified Professional - *Whole Office Support*
 
-#### Patricia Trejo-Rodriguez - *Interiors Group*
+#### Patricia Trejo-Rodriguez
+>BIM Technician / Revit Certified Professional - *Interiors Group*
 
-#### Luc Wing - *Healthcare/Education*
+#### Luc Wing 
+>BIM Technician / Revit Certified Professional - *Healthcare/Education*
