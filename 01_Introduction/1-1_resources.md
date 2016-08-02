@@ -10,7 +10,7 @@ The Revit Support group was established to provide immediate support to users wh
 
 The group consists of four total members strategically placed throughout the office.
 
-### Design Technology LEaders
+### Design Technology Leaders
 
 If you require assistance that goes beyond initial troubleshooting and workflows you may need to contact the Design Technology Leaders. This group is in charge of guiding how we utilize technology in the firm as a whole.
 
