@@ -7,7 +7,8 @@ For support when it comes to getting work done in Revit, DPS created a group of 
 #### Yanelly Marquez 
 >BIM Technician - *Government Group*
 
-#### Jesus Martinez - *Commercial/Liturgical Group*
+#### Jesus Martinez
+>BIM Technician - *Commercial/Liturgical Group*
 
 #### John Pierson - *Whole Office Support*
 
