@@ -6,7 +6,7 @@ This group can:
 * Assist with modeling tasks
 * Generate Revit content
 * Automate workflows
-* Offer a shoulder to cry on when Revit is mean. :simple_smile:
+* Offer a shoulder to cry on when Revit is mean. :smile:
 
 ###This group consists of the following individuals. (Alphabetical order with respective focus areas)
 
