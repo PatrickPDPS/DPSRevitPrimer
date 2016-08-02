@@ -1,4 +1,4 @@
 # Summary
-
 * [About](README.md)
-* [01_Introduction] (01/Introduction/1_introduction.md)
+* [Introduction](01_Introduction/1_introduction.md)
+   * [What is Visual Programming?](01_Introduction/1-1_resources.md)
