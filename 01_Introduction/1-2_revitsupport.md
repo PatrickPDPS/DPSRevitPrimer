@@ -2,6 +2,12 @@
 
 For support when it comes to getting work done in Revit, DPS created a group of individuals to assist you with any needs.
 
+This group can:
+>Assist with modeling tasks
+>Generate Revit content
+>Automate workflows
+>Offer a shoulder to cry on when Revit is mean. :simple_smile:
+
 ###This group consists of the following individuals. (Alphabetical order with respective focus areas)
 
 #### <a href="mailto:yanellym@dpsdesign.org">Yanelly Marquez </a>
