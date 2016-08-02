@@ -3,6 +3,7 @@
 * [__1__. Introduction](01_Introduction/1_introduction.md)
    * [__1.1__. Resources](01_Introduction/1-1_resources.md)
    * [__1.2__. Revit Support](01_Introduction/1-2_revitsupport.md)
+   * [__1.3__. Revit Content](01_Introduction/1-3_revitcontent.md)
 * [__2__. DPS Revit Template](02_DPS Revit Template/2_overview.md)
    * [__2.1__. Project Startup](02_DPS Revit Template/2-1_project_start.md)
 * [__3__. View Organization](03_View Organization/3_introduction.md)
