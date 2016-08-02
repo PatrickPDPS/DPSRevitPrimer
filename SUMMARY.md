@@ -4,3 +4,5 @@
    * [Resources](01_Introduction/1-1_resources.md)
 * [DPS Revit Template](02_DPS Revit Template/2_overview.md)
    * [Resources](02_DPS Revit Template/2-1_project_start.md)
+* [View Organization](03_View Organization/3_introduction.md)
+   * [Resources](03_View Organization/3-1_view_organization.md)
