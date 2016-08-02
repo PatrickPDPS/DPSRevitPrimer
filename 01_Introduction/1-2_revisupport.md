@@ -6,12 +6,12 @@ For support when it comes to getting work done in Revit, DPS created a group of 
 
 #### Yanelly Marquez - Government Group
 
-The Revit Support group was established to provide immediate support to users when it comes to our digital process. They are immediately reachable by a single email group RevitSupport@dpsdesign.org
+#### Jesus Martinez - Commercial/Liturgical Group
 
-The group consists of four total members strategically placed throughout the office.
+#### John Pierson - Whole Office Support
 
-### Design Technology LEaders
+#### Patrick Podeyn - Whole Office Support
 
-If you require assistance that goes beyond initial troubleshooting and workflows you may need to contact the Design Technology Leaders. This group is in charge of guiding how we utilize technology in the firm as a whole.
+#### Patricia Trejo-Rodriguez - Interiors Group
 
-This group consists of a representative from every practice area and meets on a monthly basis to discuss best practices, training topics and new items.
+#### Luc Wing - Healthcare/Education
