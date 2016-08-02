@@ -4,7 +4,7 @@ For support when it comes to getting work done in Revit, DPS created a group of 
 
 ![software]](images/1-1/00-software.png)
 
-### Revit Support Group
+#### Revit Support Group
 
 The Revit Support group was established to provide immediate support to users when it comes to our digital process. They are immediately reachable by a single email group RevitSupport@dpsdesign.org
 
