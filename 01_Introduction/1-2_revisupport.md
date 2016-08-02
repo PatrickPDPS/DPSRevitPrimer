@@ -7,17 +7,17 @@ For support when it comes to getting work done in Revit, DPS created a group of 
 #### <a href="mailto:yanellym@dpsdesign.org.com">Yanelly Marquez </a>
 >BIM Technician - *Government Group*
 
-#### Jesus Martinez
+####  <a href="mailto:jesusm@dpsdesign.org.com">Jesus Martinez </a>
 >BIM Technician - *Commercial/Liturgical Group*
 
-#### John Pierson 
+####  <a href="mailto:johnp@dpsdesign.org.com">John Pierson </a>
 >Coordinator / Revit Certified Professional - *Whole Office Support*
 
-#### Patrick Podeyn
+####  <a href="mailto:patrickp@dpsdesign.org.com">Patrick Podeyn </a>
 >BIM Technician / Revit Certified Professional - *Whole Office Support*
 
-#### Patricia Trejo-Rodriguez
+####  <a href="mailto:patriciatr@dpsdesign.org.com">Patricia Trejo-Rodriguez </a>
 >BIM Technician / Revit Certified Professional - *Interiors Group*
 
-#### Luc Wing 
+####  <a href="mailto:lucwm@dpsdesign.org.com">Luc Wing </a>
 >BIM Technician / Revit Certified Professional - *Healthcare/Education*
