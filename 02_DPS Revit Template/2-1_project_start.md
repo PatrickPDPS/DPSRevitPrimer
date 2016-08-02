@@ -14,3 +14,4 @@ After a project coordinator or project manager has completed the **Project Start
 Examples of the project start sheet are found below.
 ![Project Start](images/2-1/2-1_projectstart1.png =250x)
 ![Project Start](images/2-1/2-1_projectstart2.png =250x)
+<img src="images/2-1/2-1_projectstart1.png" alt="Drawing" style="width: 200px;"/>
