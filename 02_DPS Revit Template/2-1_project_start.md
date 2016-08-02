@@ -1,6 +1,6 @@
 ## Project Start Process
 
-To ensure that **all** projects are started in the most efficient manner, DPS has implemented a process that requires a Revit Support tech or BIM Committee Member to start your project for you.
+To ensure that **all** projects are started in the most efficient manner, DPS has implemented a process that requires a Revit Support tech or Design Technology Leader to start your project for you.
 
 After a project coordinator or project manager has completed the **Project Start Form** and **BIMxp** the Revit Support tech will:
 
