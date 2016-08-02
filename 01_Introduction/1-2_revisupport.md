@@ -1,6 +1,6 @@
-## Resources Available
+## Revit Support Structure
 
-When it comes to using the software in an efficient manner, DPS has a great support process laid out.
+For support when it comes to getting work done in Revit, DPS created a group of individuals to assist you with any needs.
 
 ![software]](images/1-1/00-software.png)
 
