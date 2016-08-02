@@ -4,7 +4,8 @@ For support when it comes to getting work done in Revit, DPS created a group of 
 
 ###This group consists of the following individuals. (Alphabetical order with respective focus areas)
 
-#### Yanelly Marquez - 
+#### Yanelly Marquez 
+>BIM Technician
 >*Government Group*
 
 #### Jesus Martinez - *Commercial/Liturgical Group*
