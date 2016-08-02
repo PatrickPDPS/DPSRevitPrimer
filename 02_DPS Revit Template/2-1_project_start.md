@@ -15,7 +15,7 @@ After a project coordinator or project manager has completed the **Project Start
 
 The project start sheet is located in: R:\REVIT\Libraries\DPS Content\Revit-Project Start Checklist.pdf 
 
-*Examples of the project start sheet are found below.*
+*Examples of the project start sheet are also found below.*
 
 <img src="images/2-1/2-1_projectstart1.png" alt="Project Start 1" width = "350"/>
 <img src="images/2-1/2-1_projectstart2.png" alt="Project Start 2" width = "350"/>
