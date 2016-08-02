@@ -15,5 +15,5 @@ The project start sheet is located in: R:\REVIT\Libraries\DPS Content\Revit-Proj
 
 *Examples of the project start sheet are found below.*
 
-<img src="images/2-1/2-1_projectstart1.png" alt="Project Start 1" width = "500"/>
-<img src="images/2-1/2-1_projectstart2.png" alt="Project Start 2" width = "500"/>
+<img src="images/2-1/2-1_projectstart1.png" alt="Project Start 1" width = "350"/>
+<img src="images/2-1/2-1_projectstart2.png" alt="Project Start 2" width = "350"/>
