@@ -1,6 +1,6 @@
 ## Revit Content
 
-To ensure that **all** projects are utilize similar content, DPS has a content directory located on the R drive for all offices.
+To ensure that **all** projects utilize similar content, DPS has a content directory located on the R drive for all offices.
 
 This content library is organized in a familiar fashion. **Master Format** is the logic utilized in this process.
 <img src="images/1-3/1-library.png" alt="Library" width = "500"/>
