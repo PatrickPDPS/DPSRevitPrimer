@@ -5,7 +5,7 @@ DPS has adopted a methodology for worksets that utilizes **UniFormat** to logica
 **Naming and Organization System** <img align="right" src="images/01-uniformat.png">
 * Based on Top Level of Uniformat
 * Prefixed with a Discipline Designator
- *A Architectural
+ * A Architectural
 >Example: **A_Shell**
 
  ![View Parameters](images/4-1/00-sheetParams.png)
