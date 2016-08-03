@@ -14,4 +14,5 @@
    * [__3.1__. Process](03_View Organization/3-1_view_organization.md)
 * [__4__. Sheet Organization](04_Sheet Organization/4_introduction.md)
    * [__4.1__. Process](04_Sheet Organization/4-1_sheet_organization.md)
-
+* [__5__. Workset Overview](05_Worksets/5_introduction.md)
+   * [__5.1__. Applied Logic](05_Worksets/5-1_worksets.md)
