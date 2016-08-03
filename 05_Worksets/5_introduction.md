@@ -10,3 +10,5 @@ Autodesk's definition of worksets is as follows.
 ####What does this mean to DPS?
 
 Basically, we utilize worksets in a simplified manner for **entire collections of building elements**. 
+
+This includes, *but is not limited to*:
