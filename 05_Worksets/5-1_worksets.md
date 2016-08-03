@@ -18,6 +18,8 @@ DPS has adopted a methodology for worksets that utilizes **UniFormat** to logica
 <br>
 <br>
 <br>
+---
+
 ##The following tables indicate the base worksets that DPS typically utilizes.
 ###Standard Worksets
 Default Worksets (required)| Generic (off by default)
