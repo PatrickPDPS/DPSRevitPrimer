@@ -3,7 +3,7 @@
 ### What are worksets?
 
 Autodesk's definition of worksets is as follows. 
->![Sheet Index](images/4/00-worksetdefinition.png)
+>![Sheet Index](images/00-worksetdefinition.png)
 
 
 We can consider our **drawing index** somewhat of a roadmap to our documents.
