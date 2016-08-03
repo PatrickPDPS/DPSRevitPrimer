@@ -21,13 +21,14 @@ DPS has adopted a methodology for worksets that utilizes **UniFormat** to logica
 <br>
 
 
-##Standard Worksets
+##The following tables indicate the base worksets that DPS typically utilizes.
+###Standard Worksets
 Default Worksets (required)| Generic (off by default)
 ---------------------------|-------------------------
 A_Workset1                 |X_Hidden (host elements)
 A_Shared Datum Elements (levels, grids, scope boxes)   |X_Entourage (RPC content, rendering specific items)
 
-##Additional Worksets
+###Additional Worksets
 Optional                 | Linked Files (off by default)
 ---------------------------|-------------------------
 A_Shell                |X_CAD
