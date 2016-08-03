@@ -23,7 +23,7 @@ sorting within the drawing list.
 ![Typical Values](images/4-1/01-dataSample.png)
 
 ---
-### Addtional Notes:
+### Additional Notes:
 Sheet Number is the last sorting of numbering after all of the other parameters.
 
 >Please note however that as you make new sheets they will appear in a folder with a question mark:
