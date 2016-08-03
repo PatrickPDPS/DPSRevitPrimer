@@ -9,7 +9,7 @@ This group can:
 * Offer a shoulder to cry on when Revit is mean. <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f609.png" width ="30">
 
 
-###You can reach Revit Support <a href="mailto:revitsupport@dpsdesign.org">here</a>
+###You can reach all of Revit Support <a href="mailto:revitsupport@dpsdesign.org">here</a>
 
 ###This group consists of the following individuals. (Alphabetical order with respective focus areas)
 
