@@ -10,4 +10,4 @@ This content library is organized in a familiar fashion. **Master Format** is th
 * **Detail Components** are 2D components used for detailing (organized using Master Format as well).
 * **Division Content** contains model content organized by respective Master Format division.
 
->Using windows search in the directory is the simplest method to find content. If you cannot find your content <a href = "1-2_revitsupport.md">Revit Support</a> will be more than happy to generate it for you.
+>Using windows search in the directory is the simplest method to find content. If you cannot find your content <a href = "1-2_revitsupport.md">Revit Support</a>, will be more than happy to generate it for you.
