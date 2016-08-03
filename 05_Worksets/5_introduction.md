@@ -21,4 +21,4 @@ This includes, *but is not limited to*:
 Worksets offer the ability to unload **unnecessary** elements from the **entire** model. This includes **linked** models as well.
 
 ####The next section will demonstrate the baseline standard that has been adopted by DPS as a best practice. 
->**Note: RevitSupport will typically set these up for you upon project creation.**
+>**Note: RevitSupport will typically set th default worksets up for you upon project creation.**
