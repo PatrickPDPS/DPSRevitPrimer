@@ -11,22 +11,16 @@ DPS has adopted a methodology for worksets that utilizes **UniFormat** to logica
  * P Plumbing
  * S Structural
 >Example: **A_Shell**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 ##Standard Worksets
