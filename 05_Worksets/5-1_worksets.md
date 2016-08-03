@@ -2,7 +2,7 @@
 
 DPS has adopted a methodology for worksets that utilizes **UniFormat** to logically name worksets. The portion that applies is specifically the **Top Level** of UniFormat, with a discipline designator as a prefix.
 
-**Naming and Organization System** ![UniFormat](images/01-uniformat.png)
+**Naming and Organization System** ![Uniformat](images/01-uniformat.png "Logo Title Text 1")
 * Based on Top Level of Uniformat
 * Prefixed with a Discipline Designator
 >Example: **A_Shell**
