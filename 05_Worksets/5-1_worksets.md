@@ -1,8 +1,11 @@
-## Managing Sheets the DPS way
+## DPS Worksets Best Practices
 
-Similar to the views, DPS utilizes **project Parameters** to efficiently organize sheets within our Revit models.
+DPS has adopted a methodology for worksets that utilizes **UniFormat** to logically name worksets. The portion that applies is specifically the **Top Level** of UniFormat, with a discipline designator as a prefix.
 
-In order to achieve a nice, condensed and ordered project browser for sheets we utilize a minimum of two **project parameters.** This can also expand, depending on project scope to utilize up to six project parameters.
+**Naming and Organization System**
+* Based on Top Level of Uniformat
+* Prefixed with a Discipline Designator
+* Example: **A_Shell**
 
  ![View Parameters](images/4-1/00-sheetParams.png)
 
