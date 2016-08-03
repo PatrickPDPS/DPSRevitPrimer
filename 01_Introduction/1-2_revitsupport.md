@@ -8,6 +8,9 @@ This group can:
 * Automate workflows
 * Offer a shoulder to cry on when Revit is mean. <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f609.png" width ="30">
 
+
+###You can reach Revit Support <a href="mailto:revitsupport@dpsdesign.org">here</a>
+
 ###This group consists of the following individuals. (Alphabetical order with respective focus areas)
 
 #### <a href="mailto:yanellym@dpsdesign.org">Yanelly Marquez </a>
