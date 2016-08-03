@@ -6,7 +6,7 @@ This group can:
 * Assist with modeling tasks
 * Generate Revit content
 * Automate workflows
-* Offer a shoulder to cry on when Revit is mean. <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f609.png" width ="10">
+* Offer a shoulder to cry on when Revit is mean. <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f609.png" width ="30">
 
 ###This group consists of the following individuals. (Alphabetical order with respective focus areas)
 
