@@ -16,3 +16,7 @@
    * [__4.1__. Process](04_Sheet Organization/4-1_sheet_organization.md)
 * [__5__. Workset Overview](05_Worksets/5_introduction.md)
    * [__5.1__. Applied Logic](05_Worksets/5-1_worksets.md)
+* [__6__. Phasing Overview](06_Phasing/6_introduction.md)
+   * [__6.1__. Phasing Defined](06_Phasing/6-1_phasingoverview.md)
+   * [__6.2__. DPS Phasing Methods](06_Phasing/6-2_phasingviewgeneration.md)
+   * [__6.3__. Phasing for Annotation](06_Phasing/6-3_annotationphasing.md)
