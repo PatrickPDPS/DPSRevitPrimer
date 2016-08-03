@@ -1,8 +1,10 @@
-## Sheet Organization
+## Worksets Best Practice
 
-### Why is sheet organization important?
+### What are worksets?
 
-Organizing out sheets in Revit enables us to have an accurate representation of the project phases. This also ensures that our **drawing index** will appear correctly on our cover sheet.
+Autodesk's definition of worksets is as follows. 
+>![Sheet Index](images/4/00-worksetdefinition.png)
+
 
 We can consider our **drawing index** somewhat of a roadmap to our documents.
 
