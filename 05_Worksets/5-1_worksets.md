@@ -6,6 +6,10 @@ DPS has adopted a methodology for worksets that utilizes **UniFormat** to logica
 * Based on Top Level of Uniformat
 * Prefixed with a Discipline Designator
  * A Architectural
+ * M Mechanical
+ * E Electrical
+ * P Plumbing
+ * S Structural
 >Example: **A_Shell**
 
  ![View Parameters](images/4-1/00-sheetParams.png)
