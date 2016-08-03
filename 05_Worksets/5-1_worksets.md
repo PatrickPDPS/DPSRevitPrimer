@@ -25,4 +25,4 @@ DPS has adopted a methodology for worksets that utilizes **UniFormat** to logica
 Default Worksets (required)| Generic (off by default)
 ---------------------------|-------------------------
 A_Workset1                 |X_Hidden (host elements)
-A_Shared Datum Elements    |X_Entourage
+A_Shared Datum Elements (levels, grids, scope boxes)   |X_Entourage
