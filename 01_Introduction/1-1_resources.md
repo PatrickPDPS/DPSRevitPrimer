@@ -18,4 +18,4 @@ This group consists of a representative from every practice area and meets on a 
 
 ### Bluebeam Support
 
-IF you require specific assistance when it comes to utilizing bluebeam, this group can get you the help you need. Althought this document aims to lay out DPS' Revit process, this group is essential because a PDF is often our deliverable from Revit.
+If you require specific assistance when it comes to utilizing Bluebeam, this group can get you the help you need. Althought this document aims to lay out DPS' Revit process, this group is essential because a PDF is often our deliverable from Revit.
