@@ -20,4 +20,4 @@ This includes, *but is not limited to*:
 ###Why do we care? 
 Worksets offer the ability to unload **unnecessary** elements from the **entire** model. This includes **linked** models as well.
 
-####The next section will demonstrate the baseline standard that has been adopted by DPS as a best practice. *note: RevitSupport will typically set these up for you upon project creation.
+####The next section will demonstrate the baseline standard that has been adopted by DPS as a best practice. **Note: RevitSupport will typically set these up for you upon project creation.**
