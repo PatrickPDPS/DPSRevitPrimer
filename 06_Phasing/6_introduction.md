@@ -1,15 +1,13 @@
-## View Organization
+## Phasing 
 
-### Why is view organization important?
+### Projects often have phases, how do I manage?
 
 
 
-The reason view organization is important is to keep track of what is going on in our Revit model. This all relates back to file management. If we have a **standard** view organization, this supports **consistent** workflows for all project team members.
+The truth is, more and more projects are beginning to have phasing. This is typically existing conditions with new construction on top of it.
 
->If you fail to organize your views it begins to feel like this rather quickly.
+At DPS, phasing is used for this scenario as well as a few others.
 
->![Blurry Views](images/3/01-blurryBrowser.png)
+Revit Support has **studied** the phasing process in Revit thoroughly and this next section aims to outline this process.
 
->This then results in users duplicating work and the model being less efficient than we would like.
 
-###### This next section will cover the logic around DPS' view management system.
