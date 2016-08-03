@@ -1,7 +1,9 @@
 ## Resources Available
 
 When it comes to using the software in an efficient manner, DPS has a great support process laid out.
+
 <IMG SRC="images/1-1/00-software.png" ALT="Software ALIGN=MIDDLE>
+
 
 ### Revit Support Group
 
