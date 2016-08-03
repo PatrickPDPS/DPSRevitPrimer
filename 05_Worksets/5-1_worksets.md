@@ -26,3 +26,13 @@ Default Worksets (required)| Generic (off by default)
 ---------------------------|-------------------------
 A_Workset1                 |X_Hidden (host elements)
 A_Shared Datum Elements (levels, grids, scope boxes)   |X_Entourage (RPC content, rendering specific items)
+
+##Additional Worksets
+Optional                 | Linked Files (off by default)
+---------------------------|-------------------------
+A_Shell                |X_CAD
+A_Interiors                |X_MEP
+A_Interior Finishes                |X_Sketchup
+A_Equipment & Furnishings                |
+A_Services                 |
+A_Sitework                 |
