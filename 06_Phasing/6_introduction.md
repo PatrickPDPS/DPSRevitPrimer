@@ -8,6 +8,8 @@ The truth is, more and more projects are beginning to have phasing. This is typi
 
 At DPS, phasing is used for this scenario as well as a few others.
 
+<img src="images/6/0-phasingdialogue.png">
+
 ###Revit Support has **studied** the phasing process in Revit thoroughly and this next section aims to outline this process.
 
 
