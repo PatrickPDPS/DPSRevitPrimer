@@ -12,3 +12,9 @@ Autodesk's definition of worksets is as follows.
 Basically, we utilize worksets in a simplified manner for **entire collections of building elements**. 
 
 This includes, *but is not limited to*:
+* Shell and Core Models
+* Multi-Building sites
+* Host Geometry or Entourage
+* Structural Foundations versus Structural Superstructure
+* 
+Worksets offer the ability to unload **unnecessary** elements from the **entire** model. This includes **linked** models as well.
