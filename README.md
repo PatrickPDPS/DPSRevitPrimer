@@ -16,4 +16,4 @@ Version 1.0 of this primer includes the initial framework of how to get work don
 * **Naming Standards** - How DPS names different Revit Elements and the logic surrounding this naming.
 
 ---
--> This primer is created with <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2764.png" width ="15"> by john pierson in collaboration with DPS design <-
+<p style="text-align: center;">This primer is created with <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/2764.png" width ="15"> by john pierson in collaboration with DPS design </p>
