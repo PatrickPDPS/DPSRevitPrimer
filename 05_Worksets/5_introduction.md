@@ -16,6 +16,7 @@ This includes, *but is not limited to*:
 * Multi-Building sites
 * Host Geometry or Entourage
 * Structural Foundations versus Structural Superstructure
+ 
 ---
 ###Why do we care? 
 Worksets offer the ability to unload **unnecessary** elements from the **entire** model. This includes **linked** models as well.
