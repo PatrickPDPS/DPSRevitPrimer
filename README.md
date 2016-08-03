@@ -16,3 +16,4 @@ Version 1.0 of this primer includes the initial framework of how to get work don
 * **Naming Standards** - How DPS names different Revit Elements and the logic surrounding this naming.
 
 ---
+>created with :heart: by john pierson in collaboration with DPS design
