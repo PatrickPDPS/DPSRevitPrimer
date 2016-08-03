@@ -12,11 +12,9 @@ DPS has adopted a methodology for worksets that utilizes **UniFormat** to logica
  * S Structural
 >Example: **A_Shell**
 
- ![View Parameters](images/4-1/00-sheetParams.png)
 
- *gray indicates an unmodified value. All DPS sheets should appear this way*
 
-* **Sheet Discipline** Allows for a header to be placed in the sheetlist. And by leading with a 3 digit number you can easily insert specialty consultants as needed.
+
 
 * **Sheet Discipline Order** establishes the first order of
 sorting within the drawing list.
