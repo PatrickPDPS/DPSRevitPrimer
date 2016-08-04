@@ -4,11 +4,10 @@ There are a number of view types already built into the DPS template. This secti
 
 **Floor Plan View Types** <img align = "right" src="images/2-2/0-floorplans.png">
 * Organized by Working and Documentation
- * A Architectural
- * M Mechanical
- * E Electrical
- * P Plumbing
- * S Structural
+ * Documentation Floor Plans
+ * Documentation Roof Plans
+ * Working Floor Plans
+ * Working Roof Plans
  
 **Example: A_Shell**
 
