@@ -7,7 +7,7 @@ There are a number of view types already built into the DPS template. This secti
  Messy Views| Sheet Views | test
 ---|---|---
 Working Floor Plans|Documentation Floor Plans|<img align = "right" src="images/2-2/0-floorplans.png">
-Working Roof Plans |Documentation Roof Plans
+Working Roof Plans Documentation Roof Plans
 
 <br>
 <br>
