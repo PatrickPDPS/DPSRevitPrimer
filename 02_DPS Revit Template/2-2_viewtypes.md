@@ -17,7 +17,7 @@ There are a number of view types already built into the DPS template. This secti
 
  Messy Views| Sheet Views | In-Revit View
 ---|---|---
--Working Ceiling Plans|-Documentation Ceiling Plans|<img align = "right" src="images/2-2/0-floorplans.png">
+-Working Ceiling Plans|-Documentation Ceiling Plans|<img align = "right" src="images/2-2/1-ceilingplans.png">
 
 
 
