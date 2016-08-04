@@ -11,8 +11,8 @@ There are a number of view types already built into the DPS template. This secti
  
  Messy Views| Sheet Views
 ---------------------------|-------------------------
-Working Floor Plans                 |X_Hidden (host elements)
-Working Roof Plans    |X_Entourage (RPC content, rendering specific items)
+Working Floor Plans                 |Documentation Floor Plans
+Working Roof Plans    |Documentation Roof Plans
 
 <br>
 <br>
