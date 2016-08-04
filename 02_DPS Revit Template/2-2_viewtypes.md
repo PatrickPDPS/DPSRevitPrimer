@@ -35,6 +35,8 @@ The reason this view type is useful is because it already has a view template as
 *An example of this is located below.*
 <img  src="images/2-2/4-wnelevations.png">
 
+>Working Sections are meant to be used as references. These section types are very useful for studies and are very non-commital. The idea is, they are used, then removed when done. <img align = "right" src="images/2-2/5-tempelevations.png">
+
 
 ---
 
