@@ -25,7 +25,7 @@ There are a number of view types already built into the DPS template. This secti
 
  View Type| Description | In-Revit View
 ---|---|---
--301 Building Sections -320 Wall Sections<br/> -360 Casework Sections<br/> -680 Window Types<br/> -Drafting View Reference<br/> -Working Sections|-Used for Building Section Views <br/> -Used for Wall Section Views<br/> -Used for Interiors' Casework Sections<br/> -Used for Architectural Window Types<br/> -Used to reference non-live views<br/> - Working Sections for study |<img align = "right" src="images/2-2/2-sections.png">
+-301 Building Sections -320 Wall Sections<br/> -360 Casework Sections<br/> -680 Window Types<br/> -Drafting View Reference<br/> -Working Sections|-Used for Building Section Views <br/> -Used for Wall Section Views<br/> -Used for Interiors' Casework<br/> -Used for Window Types<br/> -Used to reference non-live views<br/> - Working Sections for study |<img align = "right" src="images/2-2/2-sections.png">
 
 ##In addition to the section views that exist, there are a few rules of thumb.
 
