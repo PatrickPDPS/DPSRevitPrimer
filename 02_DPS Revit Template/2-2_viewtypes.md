@@ -4,7 +4,7 @@ There are a number of view types already built into the DPS template. This secti
 ## Floor Plan View Types 
 ### Organized by Working and Documentation
 
- Messy Views| Sheet Views | test
+ Messy Views| Sheet Views | In-Revit View
 ---|---|---
 -Working Floor Plans</br> -Working Roof Plans |-Documentation Floor Plans</br> -Documentation Roof Plans|<img align = "right" src="images/2-2/0-floorplans.png">
 
