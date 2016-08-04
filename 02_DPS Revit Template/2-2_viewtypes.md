@@ -5,7 +5,7 @@ There are a number of view types already built into the DPS template. This secti
 ### Organized by Working and Documentation
 
  Messy Views| Sheet Views
--------------------|-------------------------
+---|---
 Working Floor Plans|Documentation Floor Plans
 Working Roof Plans |Documentation Roof Plans
 
