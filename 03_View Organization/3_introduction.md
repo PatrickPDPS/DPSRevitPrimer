@@ -1,4 +1,4 @@
-## View Organization
+# View Organization
 
 ### Why is view organization important?
 
