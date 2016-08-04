@@ -1,4 +1,4 @@
-## Revit Content
+# Revit Content
 
 To ensure that **all** projects utilize similar content, DPS has a content directory located on the R drive for all offices.
 
