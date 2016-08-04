@@ -14,7 +14,7 @@ Version 1.0 of this primer includes the initial framework of how to get work don
 * **Navigation** - How to organize and get around your Revit project.
 * **Organizing Sheets** - How we organize our sheets to allow for a faster, better deliverable.
 * **Workset Methodology** - How DPS uses and names worksets.
-* **Phasing OVerview** - How DPS utilizes Revit's phasing capabilities.
+* **Phasing Overview** - How DPS utilizes Revit's phasing capabilities.
 * **Naming Standards** - How DPS names different Revit Elements and the logic surrounding this naming.
 
 ---
