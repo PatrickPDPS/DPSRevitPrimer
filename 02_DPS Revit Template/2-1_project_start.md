@@ -1,4 +1,4 @@
-## Project Start Process
+# Project Start Process
 
 To ensure that **all** projects are started in the most efficient manner, DPS has implemented a process that requires a Revit Support tech or Design Technology Leader to start your project for you.
 
