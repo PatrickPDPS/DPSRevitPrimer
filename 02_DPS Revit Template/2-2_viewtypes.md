@@ -31,6 +31,7 @@ There are a number of view types already built into the DPS template. This secti
 
 >Window Type sections are meant to be used for live window and frame elevations. They are only visible in working views and look like this. (These views should also be pinned) <img align = "right" src="images/2-2/3-wntypes.png">
 The reason this view type is useful is because it already has a view template assigned to make your window elevations look great. Especially if you utilize the DPS model group method, covered at a later module.
+
 *An example of this is located below.
 <img  src="images/2-2/4-wnelevations.png">
 
