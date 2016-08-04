@@ -8,8 +8,6 @@ There are a number of view types already built into the DPS template. This secti
  * Documentation Roof Plans
  * Working Floor Plans
  * Working Roof Plans
- 
-**Example: A_Shell**
 
 <br>
 <br>
