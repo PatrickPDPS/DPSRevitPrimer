@@ -29,7 +29,7 @@ There are a number of view types already built into the DPS template. This secti
 
 ##In addition to the section views that exist, there are a few rules of thumb.
 
->Window Type sections are meant to be used for live window and frame elevations. They are only visible in working views and look like this. <img align = "right" src="images/2-2/3-wntypes.png">
+>Window Type sections are meant to be used for live window and frame elevations. They are only visible in working views and look like this. (These views should also be pinned) <img align = "right" src="images/2-2/3-wntypes.png">
 
 
 ---
