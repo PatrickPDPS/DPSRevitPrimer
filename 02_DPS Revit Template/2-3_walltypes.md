@@ -1,4 +1,4 @@
-## Wall Types in Revit Template
+# Wall Types in Revit Template
 
 ###To do:
 
