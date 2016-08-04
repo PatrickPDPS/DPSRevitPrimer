@@ -1,4 +1,4 @@
-## View Types in Revit Template
+# View Types in Revit Template
 
 There are a number of view types already built into the DPS template. This section aims to inform you on the types available.
 > All views share a common organization through the use of working and documentation style views.
