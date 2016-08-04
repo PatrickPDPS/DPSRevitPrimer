@@ -4,10 +4,10 @@ There are a number of view types already built into the DPS template. This secti
 
 **Floor Plan View Types** <img align = "right" src="images/2-2/0-floorplans.png">
 * Organized by Working and Documentation
- * Documentation Floor Plans
- * Documentation Roof Plans
- * Working Floor Plans
- * Working Roof Plans
+ * Documentation Floor Plans - Sheet Views
+ * Documentation Roof Plans - Sheet Views
+ * Working Floor Plans - Working Views
+ * Working Roof Plans - Working Views
 
 <br>
 <br>
