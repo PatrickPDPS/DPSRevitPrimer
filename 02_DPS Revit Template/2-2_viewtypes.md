@@ -1,13 +1,5 @@
 ## View Types in Revit Template
 
-###To do:
-
-- [x] create placeholder page for content
-- [ ] add typical view types
-- [ ] describe view types
-- [ ] include some process?
-## View Types in Revit Template
-
 There are a number of view types already built into the DPS template. This section aims to inform you on the types available.
 
 **Naming and Organization System** <img align="right" src="images/01-uniformat.png">
