@@ -1,4 +1,4 @@
-## Phased View Generation
+# Phased View Generation
 
 ###To do:
 
