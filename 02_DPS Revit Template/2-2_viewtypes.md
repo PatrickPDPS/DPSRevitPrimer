@@ -27,6 +27,8 @@ There are a number of view types already built into the DPS template. This secti
 ---|---|---
 -301 Building Sections</br></br> -320 Wall Sections</br></br> -360 Casework Sections</br></br> -680 Window Types</br></br> -Drafting View Reference</br></br> -Working Sections|-Used for Building Section Views </br></br> -Used for Wall Section Views</br></br> -Used for Interiors' Casework Sections</br></br> -Used for Architectural Window Types</br></br> -Used to reference non-live views</br></br> - Working Sections for study |<img align = "right" src="images/2-2/2-sections.png">
 
+.IN addition to the section views that exist, there are a few rules of thumb.
+
 
 ---
 
