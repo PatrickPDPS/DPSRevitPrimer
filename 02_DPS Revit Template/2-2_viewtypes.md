@@ -9,7 +9,7 @@ There are a number of view types already built into the DPS template. This secti
 
  Messy Views| Sheet Views | In-Revit View
 ---|---|---
--Working Floor Plans</br> -Working Roof Plans |-Documentation Floor Plans</br> -Documentation Roof Plans|<img align = "right" src="images/2-2/0-floorplans.png">
+-Working Floor Plans</br></br> -Working Roof Plans |-Documentation Floor Plans</br></br> -Documentation Roof Plans|<img align = "right" src="images/2-2/0-floorplans.png">
 
 ---
 
