@@ -27,6 +27,8 @@ There are a number of view types already built into the DPS template. This secti
 ---|---|---
 -301 Building Sections<br/> -320 Wall Sections<br/> -360 Casework Sections<br/> -680 Window Types<br/> -Drafting View Reference<br/> -Working Sections|-Used for Building Section Views <br/> -Used for Wall Section Views<br/> -Used for Interiors' Casework<br/> -Used for Window Types<br/> -Reference non-live views<br/> - Working Sections for study |<img align = "right" src="images/2-2/2-sections.png">
 
+---
+
 ##In addition to the section views that exist, there are a few rules of thumb.
 ###Window Type Sections
 >Window Type sections are meant to be used for live window and frame elevations. They are only visible in working views and look like this. (These views should also be pinned) <img align = "right" src="images/2-2/3-wntypes.png">
