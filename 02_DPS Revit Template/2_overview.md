@@ -1,4 +1,4 @@
-## DPS Revit template
+# DPS Revit template
 
 #### The current Revit template for DPS is **Architecture-2016.rte**
 

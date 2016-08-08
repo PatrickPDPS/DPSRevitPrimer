@@ -1,4 +1,5 @@
 # Summary
+
 * [About](README.md)
 * [__1__. Introduction](01_Introduction/1_introduction.md)
    * [__1.1__. Resources](01_Introduction/1-1_resources.md)
@@ -11,5 +12,11 @@
    * [__2.4__. Annotation](02_DPS Revit Template/2-4_annotationtypes.md)
 * [__3__. View Organization](03_View Organization/3_introduction.md)
    * [__3.1__. Process](03_View Organization/3-1_view_organization.md)
-* [__4__. Sheet Organization](04_Sheet Organization\4_introduction.md)
-   * [__4.1__. Process](04_Sheet Organization\4-1_sheet_organization.md)
+* [__4__. Sheet Organization](04_Sheet Organization/4_introduction.md)
+   * [__4.1__. Process](04_Sheet Organization/4-1_sheet_organization.md)
+* [__5__. Workset Overview](05_Worksets/5_introduction.md)
+   * [__5.1__. Applied Logic](05_Worksets/5-1_worksets.md)
+* [__6__. Phasing Overview](06_Phasing/6_introduction.md)
+   * [__6.1__. Phasing Defined](06_Phasing/6-1_phasingoverview.md)
+   * [__6.2__. DPS Phasing Methods](06_Phasing/6-2_phasingviewgeneration.md)
+   * [__6.3__. Phasing for Annotation](06_Phasing/6-3_annotationphasing.md)

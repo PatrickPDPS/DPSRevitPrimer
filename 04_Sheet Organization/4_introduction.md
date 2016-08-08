@@ -1,4 +1,4 @@
-## Sheet Organization
+# Sheet Organization
 
 ### Why is sheet organization important?
 

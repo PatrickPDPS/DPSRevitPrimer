@@ -1,4 +1,4 @@
-## Managing Views the DPS way
+# Managing Views the DPS way
 
 DPS utilizes a folder structure within Revit that is built to reflect the phases of how a project gets developed.
 
