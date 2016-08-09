@@ -2,6 +2,7 @@
 <br>
 <br>
 There are eight different phase filters that all do something specific which control the display of elements based on their phase created parameter. You can change how each of the phase filters display in the views they are assigned.  
+<img src="images/6/PhaseFilterBox.png">
 <br>
 * None - Does not apply a phase filter to the view. The view displays all elements from all phases.
 * Show All -  Shows new elements (using the graphics settings defined for that category of elements) and existing, demolished, and temporary elements (using the Graphic Overrides settings for each phase defined using Manage tabPhasing panelPhasesGraphic Overrides tab).
