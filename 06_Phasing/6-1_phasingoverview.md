@@ -6,3 +6,4 @@ Phasing represents the distinct time period for the life a project, there are tw
 <br>
 <br>
 Phasing can also be applied to Revit Elements to be shown as either existing, new construction or demolished which are handled by both the phase created/phase parameters which we will be going into later. 
+<img src="images/6/ElementPhasing.png">
