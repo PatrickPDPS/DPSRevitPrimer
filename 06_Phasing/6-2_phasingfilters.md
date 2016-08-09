@@ -1,7 +1,7 @@
 # Phase Filters
 <br>
 <br>
-There are eight different phase filters that all do something specific which control the display of elements based on their phase created parameter. You can change how each of the phase filters display in the views they are assigned as well as adding or removing additional filters.  
+There are eight different phase filters that all do something specific which control the display of elements based on their phase created status. You can change how each of the phase filters display in the views they are assigned as well as adding or removing additional filters.  
 <img src="images/6/PhaseFilterBox.png">
 <br>
 * None - Does not apply a phase filter to the view. The view displays all elements from all phases.
