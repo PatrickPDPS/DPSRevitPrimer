@@ -6,4 +6,4 @@
 <br>
 Our projects are getting bigger in the office and we need a method to break up the building so that they fit on the designated sheets rather it be a 24x36 or 30x42. Revit suppport has a method for alliviating this issue, it is the use of scope boxes. You can see these in your working plan as a dashed greenline surrounding your building (See below).
 <br>
-<img src="images/6/ScopeBoxes.png">
+<img src="DPSRevitPrimer/07_Area%20Plans/images/ScopeBoxes.png">
