@@ -7,4 +7,4 @@ We use scope boxes becasue they ensure that the crop region is the same througho
 We typically name our scope boxes based on the area of the building they are covering. We typically use an alphabet naming system reason being the letters are what are typically represented for sheet numbering, although you can use what ever other naming your project architect deems appropriate. 
 <br>
 ## How do we use scope boxes?
-When using scope boxes the best practice is to overlap them, you typically want to include a grid or a wall (if a grid is not applicable) just to tie both of the areas togerther when dimenioning. Now how far do we overlap? A 1/4" from the match line (see below) this ensures that there are elements on both areas that carry over. 
+When using scope boxes the best practice is to overlap them, you typically want to include a grid or a wall (if a grid is not applicable) just to tie both of the areas togerther when dimenioning. Now how far do we overlap? 1'-0" from the match line (see below) this ensures that there are elements on both areas that carry over. 
