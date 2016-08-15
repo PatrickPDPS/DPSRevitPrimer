@@ -13,4 +13,4 @@ When using scope boxes the best practice is to overlap them, you typically want 
 <br>
 <img src="/07_Area Plans/images/7/ScopeBoxes.png">
 <br>
-<img src="/07_Area Plans/images/7/ScopeBoxeMatches.png">
+<img src="/07_Area Plans/images/7/ScopeBoxesMatch.png">
