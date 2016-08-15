@@ -9,3 +9,5 @@ Now you have your model linked into your project, and your consultant sends you 
 1. You can go into the link tab in revit and select manage links under the Revit tab select the link and click reload in the bottom left corner. (See below) 
 <br>
 <img src="images/8/ManageLinksButton.png">
+<br>
+<img src="images/8/ReloadLinks.png">
