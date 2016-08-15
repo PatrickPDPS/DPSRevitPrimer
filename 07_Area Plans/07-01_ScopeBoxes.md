@@ -12,3 +12,5 @@ We typically name our scope boxes based on the area of the building they are cov
 When using scope boxes the best practice is to overlap them, you typically want to include a grid or a wall (if a grid is not applicable) just to tie both of the areas togerther when dimensioning. Now how far do we overlap? 1'-0" from the match line (see below) this ensures that there are elements on both areas that carry over, matchlines also carry an unlimited extent meaning you'll need to draw it once and it carry thorugh to all of your levels above as well as elevations. 
 <br>
 <img src="/07_Area Plans/images/7/ScopeBoxes.png">
+<br>
+<img src="/07_Area Plans/images/7/ScopeBoxeMatches.png">
