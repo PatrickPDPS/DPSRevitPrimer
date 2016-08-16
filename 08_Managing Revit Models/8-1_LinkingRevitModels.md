@@ -12,4 +12,6 @@ Now you have your model linked into your project, and your consultant sends you 
 <img src="images/8/ManageLinksButton.png">
 <br>
 <img src="images/8/ReloadLinks.png">
-2. T
+2. You can reload a link from you project browser by simply right clicking on the link and selecting either "Reload from..." or "Reload" (See below)
+<br>
+<img src="images/8/ReloadPB.png">
