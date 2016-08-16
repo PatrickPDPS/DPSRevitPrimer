@@ -6,6 +6,7 @@ So now that you have downloaded your consultants model(s) you'll need to link th
 #Managing Linked Models
 <br>
 Now you have your model linked into your project, and your consultant sends you an updated model, what do you do now? There are a couple of methods, all accomplish the same so there is really no right way to do it. 
+<br>
 1. You can go into the link tab in revit and select manage links under the Revit tab select the link and click reload in the bottom left corner. (See below) 
 <br>
 <img src="images/8/ManageLinksButton.png">
