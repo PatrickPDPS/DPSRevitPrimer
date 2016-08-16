@@ -4,6 +4,8 @@ There is really only one method of exporting to CAD format, it's relatively simp
 <img src="images/8/ExportDWG.png">
 <br>
 <br>
-##Exporting out 3D CAD
+##Exporting out 3D 
 <br>
-This is accomplishable a couple of ways, you can export out a 3D view by using our original method but just a couple more steps. 
+This is accomplishable a couple of ways, you can export out a 3D view by using our original method but just a couple more steps. You'll need enable solid meshes so it exports out a good quality that you can use in CAD or in Sketchup. 
+<br>
+<img src="images/8/ExportSolids.png">
