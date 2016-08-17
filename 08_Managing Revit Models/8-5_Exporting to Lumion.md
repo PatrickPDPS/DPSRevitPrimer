@@ -4,5 +4,5 @@ So you have a rendering to do and you want something done relatively quick and s
 <br>
 Now when you have the add in installed you'll need to navigate to the Add-Ins<Export to Lumion (Depending on version for Revit 15 click External Tools drop down<Revit to Lumion Bridge). Before you click export, you want to make sure that your Geometry Accuracy is set to high and if you don't have a need for any interior shots you can check "Skip interior details". 
 <br>
-<img src="images/8/LinkLumion.png">
+<img src="images/8/ExportLumion.png">
 
