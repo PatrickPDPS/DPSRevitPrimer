@@ -26,5 +26,5 @@
 * [__7__. Area Plans](07_Area Plans/7_introduction.md)
    * [__7.1__. Scope Boxes](07_Area Plans/07-01_ScopeBoxes.md)
    * [__7.2__. View Set Up](07_Area Plans/07-02_ViewSetUp.md)
-* [__8__. Managing Revit Models](08_Managing Revit Models/8_introduction.md)
+* [__8__. Managing Revit Models](08_Managing Revit Models/8_Introduction.md)
    * [__8.1__. Linking Revit Models](08_Managing Revit Models/8-1_LinkingRevitModels.md)
