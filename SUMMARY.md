@@ -19,7 +19,7 @@
 * [__6__. Phasing Overview](06_Phasing/6_introduction.md)
    * [__6.1__. Phasing Defined](06_Phasing/6-1_phasingoverview.md)
    * [__6.2__. Phasing Filters](06_Phasing/6-2_phasingfilters.md)
-   * [__6.3__. Element Phasing](06_Phasing/6-3_elementphasing.md)
+   * [__6.3__. Element Phasing](06_Phasing/6-3_ElementPhasing.md)
    * [__6.4__. Annotation Phases](06_Phasing/6-4_annotationphasing.md)
    * [__6.5__. Phasing Best Practices](06_Phasing/6-5_DPSphasingstandard.md)
    * [__6.6__. Construction Phasing](06_Phasing/6-6_ConstructionPhasing.md)
