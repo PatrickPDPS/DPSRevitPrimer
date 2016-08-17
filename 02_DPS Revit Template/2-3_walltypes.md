@@ -36,7 +36,7 @@ There are a number of wall types already built into the DPS template. This secti
 ## Other Wall Types
  > Walls in Revit are extremely powerful and allow for more use than just as walls. Below we will illustrate some of the use cases.
 
- ### Below we have the Toilet partition that DPS utilizes.
+### Below we have the Toilet partition that DPS utilizes.
 
  <img  src="images/2-3/toiletPartition.png">
 
@@ -44,7 +44,7 @@ There are a number of wall types already built into the DPS template. This secti
 
 ---
 
- ### Another useful tool that is available for use is, the Opening Tool.
+### Another useful tool that is available for use is, the Opening Tool.
 
  <img  src="images/2-3/openingTool.png">
 
