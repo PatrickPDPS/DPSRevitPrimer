@@ -44,7 +44,7 @@ There are a number of wall types already built into the DPS template. This secti
 
 ---
 
- ### Another useful tool that is available for use is, the Opening Tool.
+### Another useful tool that is available for use is, the Opening Tool.
 
  <img  src="images/2-3/openingTool.png">
 
