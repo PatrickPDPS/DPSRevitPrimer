@@ -23,3 +23,8 @@
    * [__6.4__. Annotation Phases](06_Phasing/6-4_annotationphasing.md)
    * [__6.5__. Phasing Best Practices](06_Phasing/6-5_DPSphasingstandard.md)
    * [__6.6__. Construction Phasing](06_Phasing/6-6_ConstructionPhasing.md)
+* [__7__. Area Plans](07_Area Plans/7_introduction.md)
+   * [__7.1__. Scope Boxes](07_Area Plans/07-01_ScopeBoxes.md)
+   * [__7.2__. View Set Up](07_Area Plans/07-02_ViewSetUp.md)
+* [__8__. Managing Revit Models](08_Managing Revit Models/8_introduction.md)
+   * [__8.1__. Linking Revit Models](08_Managing Revit Models/8-1_LinkingRevitModels.md)
