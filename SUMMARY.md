@@ -29,7 +29,7 @@
 * [__8__. Managing Revit Models](08_Managing Revit Models/8_Introduction.md)
    * [__8.1__. Linking Revit Models](08_Managing Revit Models/8-1_LinkingRevitModels.md)
    * [__8.2__. Exporting Revit](08_Managing Revit Models/8-2_ExportingRevit.md)
-   * [__8.3__. Exporting to CAD](08_Managing Revit Models/8-3_ExportingtoCAD.md)
+   * [__8.3__. Exporting to CAD](08_Managing Revit Models/8-3_ExporttoCAD.md)
    * [__8.4__. Exporting FBX](08_Managing Revit Models/8-4_ExportingFBX.md)
    * [__8.5__. Exporting to Lumion](08_Managing Revit Models/8-5_ExportingtoLumion.md)
    * [__8.6__. eTransmit](08_Managing Revit Models/8-6_eTransmit.md)
