@@ -17,6 +17,8 @@ Along with the aligned dimension there are a slew of other tools to use, all of 
 These are all found under the *detail panel* we seldom use lines in actual plans, but there are small instances where they can be used. Same goes for filled regions and detail components. The one place you will find these commonly used are in our section details, i.e. drafting views or non live views, no they're not actually dead theres just no 3D revit elements shown in the views. Not everything we do in Revit is live, and because of that we use the detail tools the most. 
 <br>
 <img src="images/2-4/DetailPanel.png">
+<br>
+We have a vast library full of almost every detail component you may need, however, there are plenty of instances where the component you need is not in our library, what do you do when that happens? We would like for you to email 
 
 
 
