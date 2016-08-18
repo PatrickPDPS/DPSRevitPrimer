@@ -11,7 +11,14 @@ In the dimension panel you'll find an assortment of tools to use, the most popul
 <img src="images/2-4/AlignedDimTOp.png"> There are a couple of different types loaded into the aligned dimension tool, the standard is our Diagonal 3/32" Arial (See below).
 <img src="images/2-4/AlignedDimTypes.png"> 
 <br>
-Along with the aligned dimension there are a slew of other tools to use, all of which have the same standard in terms of size and text type. One thing to note, our precision with dimensions and other items that use distance we use a 1/256" precision, this ensures us that we are modeling accuratly. 
+Along with the aligned dimension there are a slew of other tools to use, all of which have the same standard in terms of size and text type. One thing to note, our precision with dimensions and other items that use distance we use a 1/256" precision, this ensures us that we are modeling accurately. 
+
+### Lines, Filled Regions, Components, etc...
+These are all found under the *detail panel* we seldom use lines in actual plans, but there are small instances where they can be used. Same goes for filled regions and detail components. The one place you will find these commonly used are in our section details, i.e. drafting views or non live views, no they're not actually dead theres just no 3D revit elements shown in the views. Not everything we do in Revit is live, and because of that we use the detail tools the most. 
+<br>
+<img src="images/2-4/DetailPanel.png">
+
+
 
 
 ###To do:
