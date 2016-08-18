@@ -10,6 +10,7 @@ We're going to be going over some of the DPS best practices for annotating your 
 In the dimension panel you'll find an assortment of tools to use, the most popular tool is of course, is the *aligned dimension*. The aligned dimension is the most commonly used annotiona tool we use today, there's even a button for it on the top panel in Revit. 
 <img src="images/2-4/AlignedDimTOp.png"> There are a couple of different types loaded into the aligned dimension tool, the standard is our Diagonal 3/32" Arial (See below).
 <img src="images/2-4/AlignedDimTypes.png"> 
+<br>
 Along with the aligned dimension there are a slew of other tools to use, all of which have the same standard in terms of size and text type. One thing to note, our precision with dimensions and other items that use distance we use a 1/256" precision, this ensures us that we are modeling accuratly. 
 
 
