@@ -28,3 +28,9 @@
    * [__7.2__. View Set Up](07_Area Plans/07-02_ViewSetUp.md)
 * [__8__. Managing Revit Models](08_Managing Revit Models/8_Introduction.md)
    * [__8.1__. Linking Revit Models](08_Managing Revit Models/8-1_LinkingRevitModels.md)
+   * [__8.2__. Linking Revit Models](08_Managing Revit Models/8-2_ExportingRevit.md)
+   * [__8.3__. Linking Revit Models](08_Managing Revit Models/8-3_ExportingtoCAD.md)
+   * [__8.4__. Linking Revit Models](08_Managing Revit Models/8-4_ExportingFBX.md)
+   * [__8.5__. Linking Revit Models](08_Managing Revit Models/8-5_ExportingtoLumion.md)
+   * [__8.6__. Linking Revit Models](08_Managing Revit Models/8-6_eTransmit.md)
+   
