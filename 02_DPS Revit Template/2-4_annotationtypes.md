@@ -8,8 +8,8 @@ We're going to be going over some of the DPS best practices for annotating your 
 
 ### Dimensions
 <br> 
-
-
+In the dimension panel you'll find an assortment of tools to use, the most popular tool is of course, is the *aligned dimension*. The aligned dimension is the most commonly used annotiona tool we use today, there's even a button for it on the top panel in Revit. 
+<img src="images/2-4/AlignedDimTOp.png">
 ###To do:
 
 - [x] create placeholder page for content
