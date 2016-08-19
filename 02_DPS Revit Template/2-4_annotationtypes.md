@@ -25,7 +25,7 @@ We have a vast library full of almost every detail component you may need, howev
 ### Text!
 It's pretty self explanitory, our standard text size is 3/32" Arial narrow, Revit 17 offers a lot of functionality for text in the manner of formating vs. what is offered in the previous years of Revit. For leaders we typically use the straight instead of the rounded leaders that is offered. 
 <br>
-<img src="images/2-4/TextPanel.png">
+<img src="images/2-4/TextPanel.png"> <img src="images/2-4/TextModify.png">
 
 
 
