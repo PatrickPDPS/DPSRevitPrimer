@@ -18,7 +18,7 @@ These are all found under the *detail panel* we seldom use lines in actual plans
 <br>
 <img src="images/2-4/DetailPanel.png">
 <br>
-We have a vast library full of almost every detail component you may need, however, there are plenty of instances where the component you need is not in our library, what do you do when that happens? We would like for you to email <a href="mailto:revitsupport@dpsdesign.org">Revit Support</a> and we will either look for it online or create it for you to use for other projects. 
+We have a vast library full of almost every detail component you may need, however, there are plenty of instances where the component you need is not in our library, what do you do when that happens? We would like for you to email <a href="mailto:revitsupport@dpsdesign.org">Revit Support</a> and we will either look for it online or create it for you from scratch. 
 <br>
 <img src="images/2-4/DetailComponent.png">
 
