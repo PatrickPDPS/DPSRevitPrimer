@@ -27,6 +27,11 @@ It's pretty self explanitory, our standard text size is 3/32" Arial narrow, Revi
 <br>
 <img src="images/2-4/TextPanel.png"> <img src="images/2-4/TextModify.png">
 
+### Tagging
+This panel allows us to tag items such as rooms (if they where removed), windows, doors, etc... it's pretty simple to use, two actual tools that you will be using quite a bit in the tag panel are tag by category and keynotes. Yes, keynotes, we have module for everything keynotes which can be found *here placeholder*. 
+<br>
+<img src="images/2-4/TagPanel.png">
+
 
 
 
