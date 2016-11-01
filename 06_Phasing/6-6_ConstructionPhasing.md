@@ -1,3 +1,3 @@
 #Construction Phasing 
 <br>
-Alright, so we have some different submitals for a project such as a foundaiton, shell and core package. How do we do this in our Revit model?
+Alright, so we have some different submittals for a project such as a foundaiton, shell and core. How do we do this in our Revit model?
