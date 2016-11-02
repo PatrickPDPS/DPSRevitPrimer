@@ -21,7 +21,7 @@
    * [__6.2__. Phasing Filters](06_Phasing/6-2_phasingfilters.md)
    * [__6.3__. Element Phasing](06_Phasing/6-3_ElementPhasing.md)
    * [__6.4__. Annotation Phases](06_Phasing/6-4_annotationphasing.md)
-   * [__6.5__. Phasing Best Practices](06_Phasing/6-5_DPSphasingstandard.md)
+   * [__6.5__. DPS Phasing Standards](06_Phasing/6-5_DPSphasingstandard.md)
 * [__7__. Area Plans](07_Area Plans/7_introduction.md)
    * [__7.1__. Scope Boxes](07_Area Plans/07-01_ScopeBoxes.md)
    * [__7.2__. View Set Up](07_Area Plans/07-02_ViewSetUp.md)
