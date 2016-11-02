@@ -17,4 +17,4 @@ Now, you'll also see something new with your views, we will insert a "1" for exa
 <br>
 <img src="images/6/PB_Views.png">
 <br>
-Now, lets say you have consultants 
+There will also be a workset called "A-BUILDOUT" this will be how we determine what is shown on each 
