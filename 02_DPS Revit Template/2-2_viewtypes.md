@@ -40,7 +40,7 @@ The reason this view type is useful is because it already has a view template as
 ---
 
 ###Working Sections
->Working Sections are meant to be used as references. These section types are very useful for studies and are very non-commital. The idea is, they are used, then removed when done. Working sections are also only visible in the working floor plans.
+>Working Sections are meant to be used as references. These section types are very useful for studies and are very non-committal. The idea is, they are used, then removed when done. Working sections are also only visible in the working floor plans.
 
 <img src="images/2-2/5-tempelevations.png">
 
