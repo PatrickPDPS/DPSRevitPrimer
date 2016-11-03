@@ -40,7 +40,7 @@ There are a number of wall types already built into the DPS template. This secti
 
  <img  src="images/2-3/toiletPartition.png">
 
- The reason we use a wall rather than a Revit component is, because of the ease of use. Rather than having to edit a complicated family, the user can simply adjust the wall. *Remember to change these walls to non room bounding in your project files. Otherwise each toilet stall would be a room, whic isn't fun.*
+ The reason we use a wall rather than a Revit component is, because of the ease of use. Rather than having to edit a complicated family, the user can simply adjust the wall. *Remember to change these walls to non room bounding in your project files. Otherwise each toilet stall would be a room, which isn't fun.*
 
 ---
 
