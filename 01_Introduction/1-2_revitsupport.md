@@ -22,8 +22,8 @@ This group can:
 ####  <a href="mailto:johnp@dpsdesign.org">John Pierson </a>
 >Coordinator / Revit Certified Professional - *Whole Office Support*
 
-####  <a href="mailto:patrickm@dpsdesign.org">Patrick Podeyn </a>
->Part-Time BIM Technician - *Content Collection and Creation*
+####  <a href="mailto:patrickm@dpsdesign.org">Patrick Moore </a>
+>Part-Time BIM Technician *
 
 ####  <a href="mailto:patrickp@dpsdesign.org">Patrick Podeyn </a>
 >BIM Technician / Revit Certified Professional - *Whole Office Support*
