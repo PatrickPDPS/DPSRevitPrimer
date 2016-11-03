@@ -17,10 +17,13 @@ This group can:
 >BIM Technician - *Government Group*
 
 ####  <a href="mailto:jesusm@dpsdesign.org">Jesus Martinez </a>
->BIM Technician - *Commercial/Liturgical Group*
+>BIM Technician - *Housing*
 
 ####  <a href="mailto:johnp@dpsdesign.org">John Pierson </a>
 >Coordinator / Revit Certified Professional - *Whole Office Support*
+
+####  <a href="mailto:patrickm@dpsdesign.org">Patrick Podeyn </a>
+>Part-Time BIM Technician - *Content Collection and Creation*
 
 ####  <a href="mailto:patrickp@dpsdesign.org">Patrick Podeyn </a>
 >BIM Technician / Revit Certified Professional - *Whole Office Support*
