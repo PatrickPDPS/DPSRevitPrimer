@@ -1,8 +1,4 @@
-#Annotation Types
-##Tags
-There are a lot of tags loaded into the template, the standard tags you'll need to be using are he first ones that pop up when you use them. 
-
-
+# Annotation Types in Revit Template
 
 ###To do:
 
