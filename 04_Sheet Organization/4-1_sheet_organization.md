@@ -8,7 +8,7 @@ In order to achieve a nice, condensed and ordered project browser for sheets we 
 
  *gray indicates an unmodified value. All DPS sheets should appear this way*
 
-* **Sheet Discipline** Allows for a header to be placed in the sheetlist. And by leading with a 3 digit number you can easily insert specialty consultants as needed.
+* **Sheet Discipline** Allows for a header to be placed in the sheet list. And by leading with a 3 digit number you can easily insert specialty consultants as needed.
 
 * **Sheet Discipline Order** establishes the first order of
 sorting within the drawing list.
