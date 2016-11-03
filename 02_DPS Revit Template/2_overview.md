@@ -8,6 +8,6 @@
 
 ![Start Page](images/2/00-homeScreen.png)
 
-As of this edition of this primer, the version is Revit 2016.
+As of this edition of this primer, the version is Revit 2017.
 
 ---
