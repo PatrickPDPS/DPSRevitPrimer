@@ -18,4 +18,4 @@ Version 1.0 of this primer includes the initial framework of how to get work don
 * **Naming Standards** - How DPS names different Revit Elements and the logic surrounding this naming.
 
 ---
-###### <p style="text-align: center;">This primer is created and maintained with ♥ by john pierson and patrick podeyn @ DPS design </p>
+###### <p style="text-align: center;">This primer is created and maintained with ♥ by revit support @ DPS design </p>
