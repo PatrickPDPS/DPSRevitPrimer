@@ -12,6 +12,6 @@ Now you have your model linked into your project, and your consultant sends you 
 <img src="images/8/ManageLinksButton.png">
 <br>
 <img src="images/8/ReloadLinks.png">
-2. You can reload a link from you project browser by simply right clicking on the link and selecting either "Reload from..." or "Reload" (See below) "Reload" is a simple gathering of the latest information, "Reload from" is loading from a different location or a different file.
+2. You can reload a link from you project browser by simply right clicking on the link and selecting either "Reload from..." or "Reload" (See below)
 <br>
 <img src="images/8/ReloadPB.png">
