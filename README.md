@@ -1,5 +1,5 @@
 # DPS Revit Primer
-## First Edition V1.0
+## First Edition V1.1
 
 ![Revit](images/revitlogo.jpg)
 
