@@ -19,9 +19,6 @@ This group can:
 ####  <a href="mailto:jesusm@dpsdesign.org">Jesus Martinez </a>
 >BIM Technician - *Housing*
 
-####  <a href="mailto:johnp@dpsdesign.org">John Pierson </a>
->Coordinator / Revit Certified Professional - *Whole Office Support*
-
 ####  <a href="mailto:patrickm@dpsdesign.org">Patrick Moore </a>
 >Part-Time BIM Technician *
 
