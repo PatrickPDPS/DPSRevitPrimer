@@ -17,7 +17,7 @@ This group can:
 >BIM Technician - *Government Group*
 
 ####  <a href="mailto:jesusm@dpsdesign.org">Jesus Martinez </a>
->BIM Technician - *Housing*
+>BIM Technician / Revit Certified Professional - *Housing*
 
 ####  <a href="mailto:patrickm@dpsdesign.org">Patrick Moore </a>
 >Part-Time BIM Technician *
