@@ -1,4 +1,4 @@
-# Resources Available
+esources Available
 
 When it comes to using the software in an efficient manner, DPS has a great support process laid out.
 
@@ -22,7 +22,5 @@ If you require specific assistance when it comes to utilizing Bluebeam, this gro
 
 ### Building Performance Analysis
 
-The DPS Building Performance Analysis team strives to help you iteratively test, analyze, and improve your building's design. Both Luc W. and Aaron K. use various forms of analysis to help you designe a  
-
-
+The DPS Building Performance Analysis team strives to help you iterativel test, analyze, and improve your building's design. Both Luc W. and Aaron K. use various forms of analysis to help you designe a
 
