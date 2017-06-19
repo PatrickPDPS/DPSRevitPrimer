@@ -11,7 +11,7 @@ This group can:
 
 ###You can reach all of Revit Support <a href="mailto:revitsupport@dpsdesign.org">here</a>
 
-###This group consists of the following individuals. (Alphabetical order with respective focus areas)
+###This group consists of the following individuals and their respective areas of focus.
 
 #### <a href="mailto:yanellym@dpsdesign.org">Yanelly Marquez </a>
 >BIM Technician - *Government Group*
@@ -20,7 +20,7 @@ This group can:
 >BIM Technician / Revit Certified Professional - *Housing*
 
 ####  <a href="mailto:patrickm@dpsdesign.org">Patrick Moore </a>
->Part-Time BIM Technician *
+>BIM Technician - *Medical*
 
 ####  <a href="mailto:patrickp@dpsdesign.org">Patrick Podeyn </a>
 >BIM Technician / Revit Certified Professional - *Whole Office Support*
@@ -29,4 +29,7 @@ This group can:
 >BIM Technician / Revit Certified Professional - *Interiors Group*
 
 ####  <a href="mailto:lucwm@dpsdesign.org">Luc Wing </a>
->BIM Technician / Revit Certified Professional - *Healthcare/Education*
+>BIM Technician / Revit Certified Professional - *Education/Building Performance Analysis*
+
+####  <a href="mailto:jackm@dpsdesign.org">Jack Mossman </a>
+>BIM Technician - *Commercial*
